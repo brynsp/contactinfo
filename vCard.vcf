@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:4.0
-FN:John Testingson
+FN:Bryn Spears
 PHOTO;ENCODING=b;TYPE=JPEG:
  /9j/4QDKRXhpZgAATU0AKgAAAAgABgESAAMAAAABAAEAAAEaAAUAAAABAAAAVgEbAAUAAAABAAA
  AXgEoAAMAAAABAAIAAAITAAMAAAABAAEAAIdpAAQAAAABAAAAZgAAAAAAAABIAAAAAQAAAEgAAA
@@ -4937,10 +4937,10 @@ PHOTO;ENCODING=b;TYPE=JPEG:
  bDghGHy4/wD1/wD1qnnjheY/ZC2zsW/rWqsjk57aGfvPKBcYz/n8KYAwOANoHTP+elWXb94R2He
  o2dWjKNz2x/ntTbSNU/IaygEyZx/n+VOLFp2Cn8ahleUHOM47f5/SpWEok3Y+8O1RdDsO3FRuYj
  inBo+oYE+lQGGaBRu+YEcf/XqCOQ7SAOQen+e1E520Ycia0P/Z
-N:Testingson;John;;;
+N:Spears;Bryn;;;
 ORG:Microsoft;Cloud & AI Platforms
 TITLE:Senior Solution Engineer
-TEL;TYPE=work,voice;PREF=1:+1-206-999-2796
-EMAIL;TYPE=work:b22ryn.spears@microsoft.com
-URL:https://www.linkedin.com/in/b22rynsp
+TEL;TYPE=work,voice;PREF=1:+1-206-910-2796
+EMAIL;TYPE=work:bryn.spears@microsoft.com
+URL:https://www.linkedin.com/in/brynsp
 END:VCARD
